@@ -1,0 +1,6 @@
+{
+	"ip":"legendboy7.aternos.me",
+	"port": "1680",
+	"name": "sami
+"
+}
